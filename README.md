@@ -1,5 +1,7 @@
 # Anime-Recommendation-System
 
+This Anime Recommendation System Recommends Anime Based On The Genre,Rating And Gross Value.
+
 Dataset : [imdb_anime.csv](https://github.com/IAMSAGAYAABINESH/Anime-Recommendation-System/files/12639876/imdb_anime.csv)
 
 Dataset Description :
