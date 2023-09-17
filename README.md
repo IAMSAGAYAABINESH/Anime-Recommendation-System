@@ -2,6 +2,9 @@
 
 This Anime Recommendation System Recommends Anime Based On The Genre,Rating And Gross Value.
 
+![11-animes-860x484-f7c83ce6-a7be-4f15-8252-d679c888eb91](https://github.com/IAMSAGAYAABINESH/Anime-Recommendation-System/assets/76099682/fb00f623-ad71-41b4-b151-4ab21f650d5c)
+
+
 Dataset : [imdb_anime.csv](https://github.com/IAMSAGAYAABINESH/Anime-Recommendation-System/files/12639876/imdb_anime.csv)
 
 Dataset Description :
