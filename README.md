@@ -38,3 +38,6 @@ The IMDb Anime and Animated Movies Dataset is a comprehensive collection of info
 11. Gross: The gross revenue or earnings associated with the show or movie, if applicable, giving insights into its commercial success.
 
 12. Episode (for TV shows): The number of episodes released for television shows, providing information about the show's length and potential ongoing nature.
+    
+![Blue and Brown Simple  (LinkedIn Banner)](https://github.com/IAMSAGAYAABINESH/Anime-Recommendation-System/assets/76099682/f41b4664-015c-4d65-9f0d-fafb317eac2f)
+
