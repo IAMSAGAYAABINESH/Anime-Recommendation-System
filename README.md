@@ -15,7 +15,7 @@ Dataset Description :
 
 The IMDb Anime and Animated Movies Dataset is a comprehensive collection of information about various animated television shows and movies from both the past and present. This dataset is a valuable resource for anyone interested in exploring the world of animated entertainment, including anime series and animated films. It provides detailed information on each entry, including the following key attributes:
 
-1.Title: The title of the animated show or movie.
+  1.Title: The title of the animated show or movie.
 
 2. Genre: The genre or genres that best describe the content of the show or movie, ranging from action and adventure to comedy and more.
 
